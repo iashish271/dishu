@@ -11,7 +11,7 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Kitnii Chillati hy mere upar isliyee, hehehe 💕", 
+        text: "For keeping the secret, hehehe 💕", 
         emoji: "👂",
         gif: "gif1.gif"
     },
